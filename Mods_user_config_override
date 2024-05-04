@@ -1,0 +1,29 @@
+#ifndef USE_SCRIPT
+#define USE_SCRIPT  # adds about 17k flash size, variable ram size
+#endif
+#ifdef USE_RULES
+#undef USE_RULES
+#endif
+
+#ifndef USE_I2C
+#define use USE_I2C
+#endif
+#ifndef  USE_DISPLAY
+#define USE_DISPLAY
+#endif
+#ifndef USE_DISPLAY_LCD
+#define USE_DISPLAY_LCD
+#endif
+#ifndef USE_DISPLAY_MODES1TO5
+#define USE_DISPLAY_MODES1TO5
+#endif
+
+#define USE_SCRIPT_SERIAL
+#define SCRIPT_MAXSSIZE 64
+#define USE_SCRIPT_WEB_DISPLAY
+#define USE_SCRIPT_JSON_EXPORT
+
+
+#ifndef SUPPORT_MQTT_EVENT
+#define SUPPORT_MQTT_EVENT
+#endif
