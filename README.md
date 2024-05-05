@@ -1,4 +1,4 @@
-# PylontechTasmolta
+# PylontechTasmota
 Pylontech using Tasmota
 
 Read status of Pylontech battery using Tasmota
