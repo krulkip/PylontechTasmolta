@@ -9,7 +9,7 @@ https://github.com/krulkip/PylontechTasmolta/blob/f4eebe08689806caace1d27da7f744
 This file you can find here https://github.com/krulkip/PylontechTasmolta/blob/main/Mods_user_config_override <br />
 After the following prompt at the bottom of the page /workspace/Tasmota (development) $ type platformio run -e tasmota <br />
 Program your ESP8266 with that code. It activates Display-LCD and Scripting language amongst other things. <br />
-<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
 Once loaded find the ip and go to it in a webbrowser. You can use home assistant tasmota add-inn for example to find it.
 There you will see possibilities to change friendly name etc.
 Under 
