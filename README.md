@@ -12,8 +12,11 @@ After the following prompt at the bottom of the page /workspace/Tasmota (develop
 After the compile has completed a file will appear under build_output/firmware called firmware.bin<br />
 Program your ESP8266 with that code. I use tasmotiser for that. You simply select this bin file and make sure the settings for self resetting device is set correctly <br />
 The firmware activates Display-LCD and Scripting language amongst other things. <br />
-Open up home assistant and install Mosquitto. Then install Tasmota. Your tasmota instamnce will be found in hom,e assistant. <br />
+Open up home assistant and install Mosquitto. Then install Tasmota. Your tasmota instance will be found in home assistant. <br />
 Going to the tasmota instance you can hover over the visit link and see the IP adress of your tasmota device. <br />
-Once loaded find the ip and go to it in a webbrowser. You can use home assistant tasmota add-inn for example to find it. <br />
+Once loaded find the ip and go to it in a webbrowser.<br />
+Your screen will look something like below. <br />
+picture<br />
+Click on the configure button. This will take you to a new page with possibilituies. <br />
 There you will see possibilities to change friendly name etc.
 Under 
