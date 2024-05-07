@@ -15,8 +15,8 @@ The firmware activates Display-LCD and Scripting language amongst other things. 
 Open up home assistant and install Mosquitto. Then install Tasmota. Your tasmota instance will be found in home assistant. <br />
 Going to the tasmota instance you can hover over the visit link and see the IP adress of your tasmota device. <br />
 Once loaded find the ip and go to it in a webbrowser.<br />
-Your screen will look something like below. <br />
-<img src="/Tasmota1.jpg" width="200" height="200"><br />
-Click on the configure button. This will take you to a new page with possibilituies. <br />
+Your screen will look something like below. <br /> <br />
+<img src="/Tasmota1.jpg" width="200" height="200"><br /><br />
+Click on the configuration button. This will take you to a new page with possibilities. <br />
 There you will see possibilities to change friendly name etc.
 Under 
