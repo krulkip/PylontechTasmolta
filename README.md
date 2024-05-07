@@ -16,7 +16,7 @@ Open up home assistant and install Mosquitto. Then install Tasmota. Your tasmota
 Going to the tasmota instance you can hover over the visit link and see the IP adress of your tasmota device. <br />
 Once loaded find the ip and go to it in a webbrowser.<br />
 Your screen will look something like below. <br />
-<img src="/Tasmota1.jpg" width="100" height="100"><br />
+<img src="/Tasmota1.jpg" width="200" height="200"><br />
 Click on the configure button. This will take you to a new page with possibilituies. <br />
 There you will see possibilities to change friendly name etc.
 Under 
