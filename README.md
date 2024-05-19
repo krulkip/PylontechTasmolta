@@ -17,6 +17,6 @@ Go to this IP in a webbrowser.<br />
 Click on the configuration button. This will take you to a new page with possibilities. <br />
 There you will see possibilities to change friendly name etc. <br /> <br />
 After completing this part your screen will look something like below. <br /> <br />
-<img src="/Tasmota7.jpg" width="200" height="300"><br /><br />
+<img src="/Tasmota7.jpg" width="200" height="300">
 <img src="/PylontechLCD.jpg" width="200" height="200"><br /><br />
 <img src="/PylontechSchematic.jpg" width="1000" height="500"><br /><br />
