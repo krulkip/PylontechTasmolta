@@ -15,8 +15,9 @@ The firmware activates Display-LCD and Scripting language amongst other things. 
 After the upload is complete the firmware is restarted and after a short wait you can click on the Get IP button to reveal the IP.
 Go to this IP in a webbrowser.<br />
 Click on the configuration button and then configure template. This will take you to a new page with possibilities. <br />
-Edit these until you get the below settings.
+Edit these until you get the below settings.<br />
 <img src="/Tasmota10.jpg" width="200" height="300">
+
 Now go to configure other. Please change the friendly name to Pylontech etc. <br /> <br />
 Dont forget to click on the activate button <br />
 After completing this part your screen will look something like below. <br /> <br />
