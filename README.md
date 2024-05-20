@@ -14,9 +14,22 @@ Program your ESP8266 with that code. I use tasmotiser for that. You simply selec
 The firmware activates Display-LCD and Scripting language amongst other things. <br />
 After the upload is complete the firmware is restarted and after a short wait you can click on the Get IP button to reveal the IP.
 Go to this IP in a webbrowser.<br />
-Click on the configuration button. This will take you to a new page with possibilities. <br />
-There you will see possibilities to change friendly name etc. <br /> <br />
+Click on the configuration button and then configure template. This will take you to a new page with possibilities. <br />
+Edit these until you get the below settings.
+<img src="/Tasmota10.jpg" width="200" height="300">
+Now go to configure other. Please change the friendly name to Pylontech etc. <br /> <br />
+Dont forget to click on the activate button <br />
 After completing this part your screen will look something like below. <br /> <br />
 <img src="/Tasmota7.jpg" width="200" height="300">
 <img src="/PylontechLCD.jpg" width="200" height="200"><br /><br />
 <img src="/PylontechSchematic.jpg" width="1000" height="500"><br /><br />
+There are several commands in the Console you need to enter.
+ - DisplayModel 1
+ - DisplayMode 0
+ - DisplayRefresh 2
+ - DisplayAddress 63
+ - Teleperiod 12
+ - DisplayCols 16 according to your LCD
+ - DisplayRows 4  according to your LCD
+ - WebButton1 LED
+ - WebButton2 LCD
